@@ -5,8 +5,8 @@
     "site"
   ],
   "scripts": {
-    "build": "yarn workspace site build",
-    "develop": "yarn workspace site develop",
-    "clean": "yarn workspace site clean"
+    "build": "yarn workspace site gatsby build",
+    "develop": "yarn workspace site gatsby develop",
+    "clean": "yarn workspace site gatsb clean"
   }
 }
